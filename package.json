@@ -1,0 +1,27 @@
+{
+  "name": "donizero8_userapp",
+  "version": "1.0.0",
+  "description": "just test app for google drive",
+  "main": "spreadsheet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/donizero8/donizero8userapp.github.io.git"
+  },
+  "keywords": [
+    "google",
+    "drive",
+    "api"
+  ],
+  "author": "donizero8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donizero8/donizero8userapp.github.io/issues"
+  },
+  "homepage": "https://github.com/donizero8/donizero8userapp.github.io#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.3"
+  }
+}
